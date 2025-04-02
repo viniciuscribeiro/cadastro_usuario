@@ -111,8 +111,8 @@ Durante este projeto, foram abordados os seguintes conceitos:
 
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-💼 **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/viniciuscordeiroribeiro/)  
-💻 **GitHub:** [Seu Repositório](https://github.com/viniciuscribeiro)  
+💼 **LinkedIn:** [Perfil](https://www.linkedin.com/in/viniciuscordeiroribeiro/)  
+💻 **GitHub:** [Repositório](https://github.com/viniciuscribeiro)  
 📧 **E-mail:** viniciuscordeiroribeiro@gmail.com  
 
 🚀 **Projeto desenvolvido por Vinicius Cordeiro Ribeiro.**
