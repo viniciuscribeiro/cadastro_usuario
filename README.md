@@ -35,7 +35,7 @@ Este projeto é uma aplicação web completa desenvolvida do zero, utilizando **
 ## 📂 Estrutura do Projeto
 
 ```
-📦 MeuProjetoCRUD
+📦 projetoCadastro
  ├── 📂 frontEnd  # Interface React
  │   ├── src/
  │   │   ├── components/
@@ -111,9 +111,10 @@ Durante este projeto, foram abordados os seguintes conceitos:
 
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-💼 **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seu-perfil)  
-💻 **GitHub:** [Seu Repositório](https://github.com/seu-usuario)  
+💼 **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/viniciuscordeiroribeiro/)  
+💻 **GitHub:** [Seu Repositório](https://github.com/viniciuscribeiro)  
 📧 **E-mail:** viniciuscordeiroribeiro@gmail.com  
 
 🚀 **Projeto desenvolvido por Vinicius Cordeiro Ribeiro.**
+
 
