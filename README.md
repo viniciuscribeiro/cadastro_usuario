@@ -67,7 +67,7 @@ Este projeto é uma aplicação web completa desenvolvida do zero, utilizando **
 
 ### **1️⃣ Clonar o Repositório**
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/viniciuscribeiro/cadastro_usuario.git
 cd MeuProjetoCRUD
 ```
 
